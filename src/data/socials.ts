@@ -12,7 +12,7 @@ export const socials = [
   {
     title: 'YouTube',
     icon: 'mdi:youtube',
-    url: 'https://youtube.com/c/LittleSticks',
+    url: 'https://youtube.com/c/',
   },
   {
     title: 'GitHub',
